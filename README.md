@@ -1,6 +1,5 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <img src="logo.png">
-  <img src="license.png">
+<div>
+    <img src="logo.png">
 </div>
 
 -----
@@ -11,3 +10,6 @@
 This project is a collection of piano sheet music created by me using MuseScore Studio 4. Each piece is provided in both PDF and MSCZ format, allowing for easy modification to suit individual needs.
 
 The selection of pieces is primarily based on personal preference. Each piece incorporates multiple publicly available sheet music resources from the internet, with appropriate adjustments made to achieve higher fidelity and more readable layout.
+<div>
+    <img src="license.png">
+</div>
